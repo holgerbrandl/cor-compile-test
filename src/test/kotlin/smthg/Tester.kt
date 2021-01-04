@@ -1,0 +1,4 @@
+package smthg
+
+class Tester {
+}
